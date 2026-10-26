@@ -1,9 +1,9 @@
-# GetCovered
+# GETCOVERED
 
 Cover pages for university assignments. Fill in a form, get a clean A4 cover as a vector PDF.
 Free, private (nothing is uploaded), and built with plain HTML, CSS and JavaScript: no framework, no build step.
 
-GetCovered is the rebuilt version of [BYCP, Build Your Cover Page](https://github.com/getcovered/bycp-legacy-codebase).
+GETCOVERED is the rebuilt version of [BYCP, Build Your Cover Page](https://github.com/getcovered/bycp-legacy-codebase).
 Old BYCP `.json` files still open and are converted automatically.
 
 ## What it does
@@ -72,3 +72,6 @@ and third-party requests.
 
 MIT. Instrument Sans is under the SIL Open Font License; TeX Gyre Pagella is under the GUST Font License
 (licence files are next to the fonts).
+
+## Credit
+Icon credit goes to <a href="https://www.flaticon.com/free-icons/pattern" title="pattern icons">IconBaandar - Flaticon</a>
